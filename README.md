@@ -1,6 +1,6 @@
 
 # InUppgift2-Api
-Teoretiska och praktiska API
+Teoretiska API
 
 #####
 1.Vad är skillnaden mellan backend och databas? Beskriv vad respektive ansvarar för.
