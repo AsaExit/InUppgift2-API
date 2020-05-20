@@ -97,14 +97,20 @@ On Premises: Servrar som körs på samma fysiska plats hos företaget/eget ägan
 Företaget står själv för all hantering och alla kostnader såsom inköp, 
 kvalificerade tekniker, bevakning och underhåll.
 
-Infrastructure as a service: Server/servrar som tillhandahålls av någon annan som 
+Infrastructure as a service(IAAS): Server/servrar som tillhandahålls av någon annan som 
 inriktad på en sorts hosting. Jag som mjukvarutvecklare ansvarar själv för all kod 
 hantering, såsom installation, konfigurering, uppdatering, mm.
 
-Platform as a Service: Denna tjänst utför oftast bara en sak, 
+Platform as a Service(PAAS): Denna tjänst utför oftast bara en sak, 
 till exempel Google App Engine. Dessa låter dig lägga upp en applikation på molnet 
 och driver den sedan, du betalar oftast bara för det som "används" av servern och 
-slipper tänka på server underhåll.
+slipper tänka på server underhåll. Azure We Apps.Språk begränsningar och accsess problem.
+
+Software as a Service(SAAS): En tjänst du använder eller tillhandahåller. Som Gmail, 
+Google Maps, Dropbox eller office 365till grunden ett webbhotell som tillhandahåller 
+API: er och / eller Frontends. Använder bara tjänsten. Använder vanligtvis API-nycklar 
+för att få åtkomst.
+
 ```
 #####
 9.Vad innebär TDD och BDD?
