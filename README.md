@@ -107,7 +107,7 @@ och driver den sedan, du betalar oftast bara för det som "används" av servern 
 slipper tänka på server underhåll. Azure We Apps.Språk begränsningar och accsess problem.
 
 Software as a Service(SAAS): En tjänst du använder eller tillhandahåller. Som Gmail, 
-Google Maps, Dropbox eller office 365till grunden ett webbhotell som tillhandahåller 
+Google Maps, Dropbox eller office 365 till grunden ett webbhotell som tillhandahåller 
 API: er och / eller Frontends. Använder bara tjänsten. Använder vanligtvis API-nycklar 
 för att få åtkomst.
 
